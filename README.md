@@ -14,3 +14,7 @@ Intelligent optimization algorithm aka 智能优化算法，比如蚁群算法�
 神经网络，万岁，哈哈哈哈哈哈！
 
 ending : 上这门课的时候敲代码好挣扎，但是最终还是坚持下来了，感谢自己！虽然代码写的简直就是trash！
+
+资料收集：链接：https://pan.baidu.com/s/1XgrwY-Stp0e8qIlsSlAMAA 
+提取码：hy9h 
+复制这段内容后打开百度网盘手机App，操作更方便哦
